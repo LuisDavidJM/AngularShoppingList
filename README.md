@@ -1,27 +1,50 @@
-# ShoppingList
+# Angular Shopping List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+## Table of contents
 
-## Development server
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Overview
 
-## Code scaffolding
+### The challenge
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Users should be able to:
 
-## Build
+- View the page on a computer screen
+- View a list of purchases with the ability to mark and delete them
+- See a total price of the entire shopping list
+- Add a new product to the shopping list
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Screenshot
 
-## Running unit tests
+![](./angular-shopping-list.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## My process
 
-## Running end-to-end tests
+### Built with
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- HTML
+- CSS
+- Angular framework
+- Typescript
 
-## Further help
+### What I learned
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+On this page I learned to do a routing between several screens, I also learned to implement a complete filling form to save new products and finally to make a login to be able to add the products and to be able to eliminate them.
+
+### Continued development
+
+Implement a response design so that the page can be seen on devices with different screens and make use of localStorage to be able to keep the information even if the screen is refreshed.
+
+## Author
+
+Luis David Jimenez Martinez
+- Portfolio - [www.luisdavidjm.com](https://www.luisdavidjm.com)
+- GitHub - [LuisDavidJM](https://github.com/LuisDavidJM)
